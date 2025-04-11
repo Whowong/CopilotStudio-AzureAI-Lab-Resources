@@ -2,6 +2,7 @@
 layout: default
 title: "Lab Guides"
 ---
+[← Back](../index.md)
 
 # Lab Guides
 
