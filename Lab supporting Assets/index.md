@@ -9,7 +9,7 @@ title: "Lab Supporting Assets"
 - [Lab 3 Assets](./Lab%203%20Assets/)
 - [Lab 4 Assets](./Lab%204%20Assets/)
 - [Lab 5 Assets](./Lab%205%20Assets/)
-- [LAB 7 Assets](./LAB%207%20Assets/)
+- [Lab 7 Assets](./LAB%207%20Assets/)
    
 
 ## Complete ZIP Of All Labs
