@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: "Welcome to Copilot Studio and Azure AI Enablement Workshop"
 ---
 
 # My PDF Repository
