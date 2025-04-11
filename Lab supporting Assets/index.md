@@ -2,6 +2,7 @@
 layout: default
 title: "Lab Supporting Assets"
 ---
+[← Back](../index.md)
 
 # Lab Supporting Assets
 
