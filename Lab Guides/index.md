@@ -15,4 +15,4 @@ Below are direct links to each guide:
 - [Lab 5 Guide](./Lab%205%20Guide.pdf)
 - [Lab 6 Guide](./Lab%206%20Guide.pdf)
 - [Lab 7 Guide](./Lab%207%20Guide.pdf)
-- [Lab 8 Guide](./Lab%208%20Guide.pdf)
+- [Lab 8 Guide](https://anahitaafsh.github.io/build-your-first-agent-with-azure-ai-agent-service-workshop/)
