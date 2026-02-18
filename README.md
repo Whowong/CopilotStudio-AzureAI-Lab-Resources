@@ -1,4 +1,4 @@
-# 🧠 AIRoadShow: Copilot Studio + Azure AI Workshop & Mini Hack
+# 🧠 AIRoadShow: Copilot Studio + Azure AI Workshop 
 
 Welcome! This repository contains all the resources you need to **run, host, or participate** in the Copilot Studio + Azure AI enablement workshop and mini hackathon.
 
